@@ -2,8 +2,8 @@
 
 * [目录](README.md)
 * [An Introduction to Database System][./database_introduction/README.md]
-    * 第一讲：初识数据库系统
-    * 第二讲：数据库系统的核心：数据模型
+    * [第一讲：初识数据库系统](./database_introduction/10001.md)
+    * [第二讲：数据库系统的核心：数据模型](./database_introduction/10002.md)
     * 第三讲：数据库系统的结构
     * 第四讲：数据库系统的组成
     * 第五讲：关系数据结构及关系的完整性
@@ -27,7 +27,8 @@
     * 第二十三讲：触发器
     * [图片](./database_introduction/pictures/README.md)
 * [MYSQL](./MYSQL/README.md)
-    * [简介](./MYSQL/jianjie.md)
+    * [简介](./MYSQL/10001.md)
+    * [安装](./MYSQL/10002.md)
     * [图片](./MYSQL/pictures/README.md)
 * [HTML](./HTML/README.md)
     * [简介]
