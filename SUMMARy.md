@@ -9,10 +9,10 @@
     * [第五讲：关系数据结构及关系的完整性](./database_introduction/10005.md)
     * [第六讲：关系代数--传统集合操作](./database_introduction/10006.md)
     * [第七讲：关系代数--关系特有操作](./database_introduction/10007.md)
-    * [第八讲：关系代数--综合训练](./10008.md)
-    * 第九讲：关系演算--元组关系演算
-    * 第十讲：关系演算--域关系演算语言QBE、
-    * 第十一讲：SQL概述与数据定义
+    * [第八讲：关系代数--综合训练](./database_introduction/10008.md)
+    * [第九讲：关系演算--元组关系演算](./database_introduction/10009.md)
+    * [第十讲：关系演算--域关系演算语言QBE](./database_introduction/10010.md)
+    * [第十一讲：SQL概述与数据定义](./database_introduction/10011.md)
     * 第十二讲：数据查询--单表查询
     * 第十三讲：数据查询--连接查询
     * 第十四讲：数据查询--嵌套查询
